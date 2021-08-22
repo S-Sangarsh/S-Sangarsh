@@ -1,6 +1,3 @@
-
-<img align="centre" src ='https://i0.wp.com/thedatascientist.com/wp-content/uploads/2017/02/data-science-wordcloud.jpeg?fit=925%2C550&ssl=1' width="1500" height="300"></img>
-
 <h1 align="center">Hi 👋, I'm S Sangarsh</h1>
 
 - 🔭 I’m currently Pursuing **Master's in Data Science and Machine Learning**
