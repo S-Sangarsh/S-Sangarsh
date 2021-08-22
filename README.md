@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Sangarsh</h1>
-<h3 align="center">Currently Pursing MTech in Data Science and Machine Learning. Looking for Internship Opportunity.</h3>
+- 🔭 I’m currently Pursuing **Master's in Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Project.**
 
@@ -13,5 +13,3 @@
 <a href="https://kaggle.com/sangarshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sangarshs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
