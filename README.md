@@ -32,18 +32,6 @@
 	<a href="https://linkedin.com/in/sangarshs"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/S-Sangarsh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Sangarsh&show_icons=true&theme=radical" />
- <!--- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=S-Sangarsh&theme=radical&layout=compact&exclude_lang=java+r" />--->
-    </a>
-</p>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/S-Sangarsh/count.svg" />
-</p>
 
 
 
