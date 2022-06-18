@@ -1,6 +1,6 @@
 - 👋 Hi, I’m S Sangarsh
 - 🌱 I’m currently Pursuing Master's in Data Science and Machine Learning at PES Univerity
-- 👯 I’m looking for Jobs/internships
+- 👯 I’m currently working as intern.
 - 📫 Mail id: sangarsh97@gmail.com
 
 
