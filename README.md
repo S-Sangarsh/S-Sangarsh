@@ -1,7 +1,3 @@
-- 👋 Hi, I’m S Sangarsh
-
-
-
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
