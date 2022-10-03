@@ -1,6 +1,5 @@
 - 👋 Hi, I’m S Sangarsh
-- 👯 I’m currently working as intern.
-- 📫 Mail id: sangarsh97@gmail.com
+
 
 
 <h1 align="center">Skills I have! 🤸‍♂</h1>
